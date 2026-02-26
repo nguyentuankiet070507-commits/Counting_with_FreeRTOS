@@ -34,9 +34,9 @@
 
 |   Component   |  ESP32 Pin  |
 |---------------|-------------|
-|     SDA       |   GPIO 21   |
-|     SDL       |   GPIO 22   |
-| OUT (sensor)  |   GPIO 13   |
+|    SDA OLED   |   GPIO 21   |
+|    SDL OLED   |   GPIO 22   |
+|  OUT (sensor) |   GPIO 27   |
 |     VCC       |   3.3V      |
 |     GND       |   GND       |
 
@@ -46,6 +46,7 @@
 Tuấn Kiệt Nguyễn
 
 Connect to me: nguyentuankiet070507@gmail.com
+
 
 
 
